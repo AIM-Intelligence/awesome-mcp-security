@@ -47,8 +47,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [The Security Risks of Model Context Protocol (MCP)](https://www.pillar.security/blog/the-security-risks-of-model-context-protocol-mcp) - Analysis of OAuth token theft and prompt injection risks
 - [Securing the Model Context Protocol](https://block.github.io/goose/blog/2025/03/31/securing-mcp/) - Best practices for MCP security by Block's InfoSec team
 - [How to Determine If An MCP Server Is Safe](https://block.github.io/goose/blog/2025/03/26/mcp-security/) - Guidelines for evaluating MCP server security
-- [AI Model Context Protocol (MCP) and Security](https://tldrsec.com/p/tldr-sec-272) - Overview of MCP security considerations from tl;dr sec
 - [AI Model Context Protocol (MCP) and Security](https://community.cisco.com/t5/security-blogs/ai-model-context-protocol-mcp-and-security/ba-p/5274394) - Comprehensive guide by Omar Santos covering MCP security architecture, authentication best practices, data security, and tool exposure security considerations
+- [AI agent identity: it's just OAuth](https://mayakaczorowski.com/blogs/ai-agent-authentication) - Discussion about Authentication for AI Agents. Mentions OAuth Fails for MCP based AI Agents.
 
 ## Other Awesome Projects
 
