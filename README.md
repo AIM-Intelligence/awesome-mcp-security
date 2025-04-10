@@ -40,7 +40,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 ## Tools
 
 - [MCP Specification](https://spec.modelcontextprotocol.io/specification/2025-03-26/) - Official MCP specification with security recommendations
-- [Glama.ai MCP Server Directory](https://block.github.io/goose/blog/2025/03/26/mcp-security/) - Security-aware directory of MCP servers with security scoring
+- [Glama.ai MCP Server Directory](https://block.github.io/goose/blog/2025/03/26/mcp-security/) - Security-aware directory of MCP servers with security scorin
 
 ## Articles and Blog Posts
 
