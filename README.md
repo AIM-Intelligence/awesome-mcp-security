@@ -19,6 +19,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 - "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions", 2025-03, [paper](https://arxiv.org/abs/2503.23278)
 - "MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits", 2025-04, [paper](https://arxiv.org/abs/2504.03767)
+- "Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies",2025-04, [paper](https://arxiv.org/pdf/2504.08623)
 
 ## Security Vulnerabilities
 
@@ -42,9 +43,13 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [MCP Specification](https://spec.modelcontextprotocol.io/specification/2025-03-26/) - Official MCP specification with security recommendations
 - [Glama.ai MCP Server Directory](https://block.github.io/goose/blog/2025/03/26/mcp-security/) - Security-aware directory of MCP servers with security scoring
 - [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - A server intentionally designed with flaws for security testing and training.
-- [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan?tab=readme-ov-file) - Security scanning tool designed to go over your installed MCP servers and check them for common security vulnerabilities like prompt injections, tool poisoning and cross-origin escalations.
+- [MCP-scan](https://github.com/invariantlabs-ai/mcp-scan?tab=readme-ov-file) - Security scanning tool designed to go over your installed MCP servers and check them for common security vulnerabilities like prompt injections, tool poisoning and cross-origin escalations.
+- [ToolHive](https://github.com/StacklokLabs/toolhive) - Lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security.
+- [MCP-Shield](https://github.com/riseandignite/mcp-shield) - Scans your installed MCP servers and detects vulnerabilities like tool poisoning attacks, exfiltration channels and cross-origin escalations.
+- [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments/tree/main) - MCP Tool Poisoning Experiments
+- [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity.
 
-## Articles and Blog Posts
+## Articles and Blog Posts - 
 
 - [The Security Risks of Model Context Protocol (MCP)](https://www.pillar.security/blog/the-security-risks-of-model-context-protocol-mcp) - Analysis of OAuth token theft and prompt injection risks
 - [Securing the Model Context Protocol](https://block.github.io/goose/blog/2025/03/31/securing-mcp/) - Best practices for MCP security by Block's InfoSec team
