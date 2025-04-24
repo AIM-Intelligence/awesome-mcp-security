@@ -57,6 +57,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [AI Model Context Protocol (MCP) and Security](https://community.cisco.com/t5/security-blogs/ai-model-context-protocol-mcp-and-security/ba-p/5274394) - Comprehensive guide by Omar Santos covering MCP security architecture, authentication best practices, data security, and tool exposure security considerations
 - [AI agent identity: it's just OAuth](https://mayakaczorowski.com/blogs/ai-agent-authentication) - Discussion about Authentication for AI Agents. Mentions OAuth Fails for MCP based AI Agents.
 - [Model Context Protocol has prompt injection security problems](https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/) - As more people start hacking around with implementations of MCP (the Model Context Protocol, a new standard for making tools available to LLM-powered systems) the security implications of tools built on that protocol are starting to come into focus.
+- [The hidden security threats of MCP—and how to mitigate them](https://www.merge.dev/blog/model-context-protocol-security) - Some of the biggest security threats to consider and how you can address them.
+
 
 ## Other Awesome Projects
 
