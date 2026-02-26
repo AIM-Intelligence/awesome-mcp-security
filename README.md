@@ -47,6 +47,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [ToolHive](https://github.com/StacklokLabs/toolhive) - Lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security.
 - [MCP-Shield](https://github.com/riseandignite/mcp-shield) - Scans your installed MCP servers and detects vulnerabilities like tool poisoning attacks, exfiltration channels and cross-origin escalations.
 - [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments/tree/main) - MCP Tool Poisoning Experiments
+- [SkillFortify](https://github.com/varun369/skillfortify) - Formal analysis and supply chain security for agent skills. Sound static analysis with five mathematical theorems, SAT-based dependency resolution, trust scoring, and CycloneDX ASBOM generation. Supports Claude Code, MCP, and OpenClaw. ([Paper](https://doi.org/10.5281/zenodo.18787663))
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity.
 
 ## Articles and Blog Posts - 
