@@ -48,6 +48,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [MCP-Shield](https://github.com/riseandignite/mcp-shield) - Scans your installed MCP servers and detects vulnerabilities like tool poisoning attacks, exfiltration channels and cross-origin escalations.
 - [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments/tree/main) - MCP Tool Poisoning Experiments
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity.
+- [SentinelGate](https://github.com/Sentinel-Gate/Sentinelgate) - Open-source MCP proxy for AI agent access control. Intercepts every tool call with CEL policies, RBAC, full audit trail, content scanning, and Admin UI. Single binary, zero dependencies.
 
 ## Articles and Blog Posts - 
 
