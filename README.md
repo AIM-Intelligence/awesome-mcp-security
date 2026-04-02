@@ -40,6 +40,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Tools
 
+- [agent-audit](https://github.com/piiiico/agent-audit) - CLI security scanner for MCP server configurations. Detects prompt injection, credential exposure, command injection, auth bypass, and excessive permissions. Auto-detects Claude Desktop configs.
 - [MCP Specification](https://spec.modelcontextprotocol.io/specification/2025-03-26/) - Official MCP specification with security recommendations
 - [Glama.ai MCP Server Directory](https://block.github.io/goose/blog/2025/03/26/mcp-security/) - Security-aware directory of MCP servers with security scoring
 - [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - A server intentionally designed with flaws for security testing and training.
