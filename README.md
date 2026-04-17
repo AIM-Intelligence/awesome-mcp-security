@@ -46,6 +46,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [MCP-scan](https://github.com/invariantlabs-ai/mcp-scan?tab=readme-ov-file) - Security scanning tool designed to go over your installed MCP servers and check them for common security vulnerabilities like prompt injections, tool poisoning and cross-origin escalations.
 - [ToolHive](https://github.com/StacklokLabs/toolhive) - Lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security.
 - [MCP-Shield](https://github.com/riseandignite/mcp-shield) - Scans your installed MCP servers and detects vulnerabilities like tool poisoning attacks, exfiltration channels and cross-origin escalations.
+- [Omega Walls](https://github.com/synqratech/omega-walls) - Open-source stateful prompt-injection defense for RAG, agents, and MCP-connected systems. Adds a runtime trust boundary across untrusted content, context, memory, and tools to detect distributed attacks and constrain risky actions.
 - [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments/tree/main) - MCP Tool Poisoning Experiments
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity.
 
