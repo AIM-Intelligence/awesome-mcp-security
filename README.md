@@ -48,6 +48,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [MCP-Shield](https://github.com/riseandignite/mcp-shield) - Scans your installed MCP servers and detects vulnerabilities like tool poisoning attacks, exfiltration channels and cross-origin escalations.
 - [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments/tree/main) - MCP Tool Poisoning Experiments
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity.
+- [skill-audit-mcp](https://github.com/eltociear/skill-audit-mcp) - MCP server + GitHub Action that scans MCP servers and Claude skills for 68 attack patterns (prompt injection, tool poisoning, RCE, exfiltration). Available as a paid x402 endpoint and a pre-commit hook.
+- [secrets-audit-mcp](https://github.com/eltociear/secrets-audit-mcp) - MCP server that detects leaked secrets (AWS / GCP / Azure / GitHub / Stripe / OpenAI / Anthropic and 25+ other providers) in MCP servers, skills, and source trees.
 
 ## Articles and Blog Posts - 
 
