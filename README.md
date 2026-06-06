@@ -48,6 +48,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [MCP-Shield](https://github.com/riseandignite/mcp-shield) - Scans your installed MCP servers and detects vulnerabilities like tool poisoning attacks, exfiltration channels and cross-origin escalations.
 - [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments/tree/main) - MCP Tool Poisoning Experiments
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana-native MCP server for AI agent trust scoring and on-chain identity verification. Pre-transaction trust gating via `preflight_check`, `score_agent`, `resolve_agent`, `verify_trust_receipt`. Paid tool uses HTTP 402 + USDC micropayment (<1s settlement). Config: `{"mcpServers": {"twzrd-agent-intel": {"url": "https://intel.twzrd.xyz/mcp"}}}`
 
 ## Articles and Blog Posts - 
 
