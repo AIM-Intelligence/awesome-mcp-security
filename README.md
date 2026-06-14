@@ -46,6 +46,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [MCP-scan](https://github.com/invariantlabs-ai/mcp-scan?tab=readme-ov-file) - Security scanning tool designed to go over your installed MCP servers and check them for common security vulnerabilities like prompt injections, tool poisoning and cross-origin escalations.
 - [ToolHive](https://github.com/StacklokLabs/toolhive) - Lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security.
 - [MCP-Shield](https://github.com/riseandignite/mcp-shield) - Scans your installed MCP servers and detects vulnerabilities like tool poisoning attacks, exfiltration channels and cross-origin escalations.
+- [mcp-audit](https://github.com/adudley78/mcp-audit) - Open-source security scanner for MCP server configurations. Detects tool poisoning, credential leaks, supply chain risks, and attack paths across all major MCP clients. Includes SAST rules, pre-install package vetting, and fleet scanning. Apache 2.0.
 - [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments/tree/main) - MCP Tool Poisoning Experiments
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity.
 
