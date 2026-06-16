@@ -58,6 +58,10 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [AI agent identity: it's just OAuth](https://mayakaczorowski.com/blogs/ai-agent-authentication) - Discussion about Authentication for AI Agents. Mentions OAuth Fails for MCP based AI Agents.
 - [Model Context Protocol has prompt injection security problems](https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/) - As more people start hacking around with implementations of MCP (the Model Context Protocol, a new standard for making tools available to LLM-powered systems) the security implications of tools built on that protocol are starting to come into focus.
 - [The hidden security threats of MCP—and how to mitigate them](https://www.merge.dev/blog/model-context-protocol-security) - Some of the biggest security threats to consider and how you can address them.
+- [MCP Security Vulnerabilities: How to Prevent Prompt Injection and Tool Poisoning Attacks in 2026](https://www.practical-devsecops.com/mcp-security-vulnerabilities/) - A breakdown of how MCP servers get exploited through prompt injection and tool poisoning attacks, with practical steps to prevent them.
+- [MCP Security: The Complete Guide to Securing Model Context Protocol in 2026](https://www.practical-devsecops.com/mcp-security-guide/) - Covers the full threat surface of MCP servers, including prompt injection, tool poisoning, and rug pulls. Includes a defense playbook and a skills gap analysis for teams building or auditing MCP-connected AI systems.
+- [MCP Tool Poisoning Attacks: How They Work and How to Stop Them](https://www.practical-devsecops.com/mcp-tool-poisoning/) - Tool poisoning hijacks AI agents through MCP tool descriptions that users never see. Walks through the full attack chain, real-world scenarios, and a 4-layer defense playbook.
+- [OWASP MCP Top 10: The 10 Critical Risks Every Security Team Must Fix in 2026](https://www.practical-devsecops.com/owasp-mcp-top-10/) - Breaks down the OWASP MCP Top 10 risks with a defense playbook and a week-by-week patch order for security teams.
 
 
 ## Other Awesome Projects
