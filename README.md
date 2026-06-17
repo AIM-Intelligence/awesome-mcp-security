@@ -40,13 +40,29 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Tools
 
+### Agent Security Frameworks
+
+- [MCP Core Defense](https://github.com/amurlaniakea/mcp-core-defense) — Proactive defense framework for MCP servers. Addresses **prompt injection**, **tool poisoning**, and **supply chain attacks** through strict tool-schema validation, request sanitization, and runtime enforcement. 127+ tests. Solves: Tool Description Manipulation, Indirect Prompt Injection, Installer Risks.
+- [Agent Fixer Stage](https://github.com/amurlaniakea/agent-fixer-stage) — Automated detection and remediation of vulnerable MCP tool definitions in CI/CD pipelines. Scans tool descriptions, parameter schemas, and server configs for security anti-patterns before deployment. 42+ tests. Solves: Tool Description Manipulation, Tool Name Conflicts, Installer Risks.
+
+### Specification & Testing
+
 - [MCP Specification](https://spec.modelcontextprotocol.io/specification/2025-03-26/) - Official MCP specification with security recommendations
-- [Glama.ai MCP Server Directory](https://block.github.io/goose/blog/2025/03/26/mcp-security/) - Security-aware directory of MCP servers with security scoring
 - [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - A server intentionally designed with flaws for security testing and training.
-- [MCP-scan](https://github.com/invariantlabs-ai/mcp-scan?tab=readme-ov-file) - Security scanning tool designed to go over your installed MCP servers and check them for common security vulnerabilities like prompt injections, tool poisoning and cross-origin escalations.
-- [ToolHive](https://github.com/StacklokLabs/toolhive) - Lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security.
-- [MCP-Shield](https://github.com/riseandignite/mcp-shield) - Scans your installed MCP servers and detects vulnerabilities like tool poisoning attacks, exfiltration channels and cross-origin escalations.
 - [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments/tree/main) - MCP Tool Poisoning Experiments
+
+### Scanning & Auditing
+
+- [MCP-scan](https://github.com/invariantlabs-ai/mcp-scan?tab=readme-ov-file) - Security scanning tool designed to go over your installed MCP servers and check them for common security vulnerabilities like prompt injections, tool poisoning and cross-origin escalations.
+- [MCP-Shield](https://github.com/riseandignite/mcp-shield) - Scans your installed MCP servers and detects vulnerabilities like tool poisoning attacks, exfiltration channels and cross-origin escalations.
+
+### Server Management
+
+- [ToolHive](https://github.com/StacklokLabs/toolhive) - Lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security.
+- [Glama.ai MCP Server Directory](https://block.github.io/goose/blog/2025/03/26/mcp-security/) - Security-aware directory of MCP servers with security scoring
+
+### Access Control
+
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity.
 
 ## Articles and Blog Posts - 
