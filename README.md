@@ -48,6 +48,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [MCP-Shield](https://github.com/riseandignite/mcp-shield) - Scans your installed MCP servers and detects vulnerabilities like tool poisoning attacks, exfiltration channels and cross-origin escalations.
 - [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments/tree/main) - MCP Tool Poisoning Experiments
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity.
+- [fak](https://github.com/anthony-chaudhary/fak) - Agent tool firewall that fronts an MCP server: a default-deny capability gate adjudicates every tool call before it runs (irreversible actions fail closed), and suspicious tool results are quarantined out of the model’s context to contain Tool Poisoning / Memory Poisoning. Exposes five `fak_*` adjudication tools to any MCP client; single static Go binary, Apache-2.0.
 
 ## Articles and Blog Posts - 
 
