@@ -40,6 +40,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Tools
 
+- [MCP Risk Inventory](https://github.com/FoundagentTest/mcp-risk-inventory) - Dependency-free Node CLI and GitHub Action that statically scans MCP/client configs for local stdio commands, unpinned package runners, secret-like env exposure, broad filesystem grants, remote URLs, tool schema drift, and unknown registries.
 - [MCP Specification](https://spec.modelcontextprotocol.io/specification/2025-03-26/) - Official MCP specification with security recommendations
 - [Glama.ai MCP Server Directory](https://block.github.io/goose/blog/2025/03/26/mcp-security/) - Security-aware directory of MCP servers with security scoring
 - [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - A server intentionally designed with flaws for security testing and training.
