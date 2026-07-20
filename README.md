@@ -67,5 +67,6 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Other Useful Resources
 
+- [PostgreSQL AI Access Security Kit](https://datamcp.app/resources/postgres-ai-access-security-kit) - Practical SQL roles, least-privilege grants, denial tests, audit queries, and an emergency revoke path for MCP servers and AI agents accessing PostgreSQL
 - [tl;dr sec #272](https://tldrsec.com/p/tldr-sec-272) - Newsletter discussing AI Model Context Protocol Security
 - [tl;dr sec #273](https://tldrsec.com/p/tldr-sec-273) - Newsletter covering MCP security tools and threats
