@@ -48,6 +48,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [MCP-Shield](https://github.com/riseandignite/mcp-shield) - Scans your installed MCP servers and detects vulnerabilities like tool poisoning attacks, exfiltration channels and cross-origin escalations.
 - [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments/tree/main) - MCP Tool Poisoning Experiments
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity.
+- [SecureAI-Scan](https://github.com/akanthed/SecureAI-Scan) - Offline static scanner for MCP config secrets, plaintext transport, tool-poisoning, and command injection, plus broader LLM prompt-injection and Agent Skill risks; traces source-to-sink dataflow through resolved imports instead of keyword matching.
 
 ## Articles and Blog Posts - 
 
