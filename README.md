@@ -48,6 +48,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [MCP-Shield](https://github.com/riseandignite/mcp-shield) - Scans your installed MCP servers and detects vulnerabilities like tool poisoning attacks, exfiltration channels and cross-origin escalations.
 - [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments/tree/main) - MCP Tool Poisoning Experiments
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity.
+- [ccs-lint](https://github.com/DSHCorrectover/ccs-mcp-server/tree/main/tools/ccs-lint) - Zero-dependency CLI linter + [GitHub Action](https://github.com/DSHCorrectover/ccs-lint-action) for detecting unsigned receipt field injection and trust indicator forgery in MCP responses (10KB, 5 detection rules)
 
 ## Articles and Blog Posts - 
 
