@@ -49,6 +49,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments/tree/main) - MCP Tool Poisoning Experiments
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity.
 
+- [AIShield](https://github.com/lm203688/aishield) - Agent-native security scanner for MCP servers, Agent Skills, and GPTs; aligns with OWASP MCP Top 10 + Agentic ASI01-10, 228 detection rules, zero third-party dependencies.
 ## Articles and Blog Posts - 
 
 - [The Security Risks of Model Context Protocol (MCP)](https://www.pillar.security/blog/the-security-risks-of-model-context-protocol-mcp) - Analysis of OAuth token theft and prompt injection risks
