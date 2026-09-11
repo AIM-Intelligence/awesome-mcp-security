@@ -48,8 +48,13 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [MCP-Shield](https://github.com/riseandignite/mcp-shield) - Scans your installed MCP servers and detects vulnerabilities like tool poisoning attacks, exfiltration channels and cross-origin escalations.
 - [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments/tree/main) - MCP Tool Poisoning Experiments
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity.
+- [Strixgov](https://www.strixgov.com) ([GitHub](https://github.com/Strixgov/strix)) — Execution-control kernel for AI agents and MCP tool calls (Allow/Deny/Intercept before side effects). Offline verify: `npx @strixgov/verifier@latest 5686`.
+
+
+
 
 ## Articles and Blog Posts - 
+- [Verify a Strix decision without trusting Strix](https://www.strixgov.com/blog/verify-strix-decision-without-trusting-strix) — Third-party verification of signed governance evidence via public JWKS.
 
 - [The Security Risks of Model Context Protocol (MCP)](https://www.pillar.security/blog/the-security-risks-of-model-context-protocol-mcp) - Analysis of OAuth token theft and prompt injection risks
 - [Securing the Model Context Protocol](https://block.github.io/goose/blog/2025/03/31/securing-mcp/) - Best practices for MCP security by Block's InfoSec team
