@@ -20,6 +20,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - "Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions", 2025-03, [paper](https://arxiv.org/abs/2503.23278)
 - "MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits", 2025-04, [paper](https://arxiv.org/abs/2504.03767)
 - "Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies",2025-04, [paper](https://arxiv.org/pdf/2504.08623)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Security Vulnerabilities
 
