@@ -48,6 +48,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [MCP-Shield](https://github.com/riseandignite/mcp-shield) - Scans your installed MCP servers and detects vulnerabilities like tool poisoning attacks, exfiltration channels and cross-origin escalations.
 - [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments/tree/main) - MCP Tool Poisoning Experiments
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity.
+- [AI Agent Repository Hardening Audit](https://github.com/OssaBellator/claude-code-mcp-hardening) - Read-only inventory and hardening aid for Claude Code, Codex, Cursor, MCP configuration and GitHub Actions surfaces; does not execute target repository code or claim vulnerability certification.
 
 ## Articles and Blog Posts - 
 
