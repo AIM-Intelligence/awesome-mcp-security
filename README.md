@@ -48,6 +48,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [MCP-Shield](https://github.com/riseandignite/mcp-shield) - Scans your installed MCP servers and detects vulnerabilities like tool poisoning attacks, exfiltration channels and cross-origin escalations.
 - [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments/tree/main) - MCP Tool Poisoning Experiments
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity.
+- [Palanit Core](https://github.com/stasxr/palanit-core) - Zero-dependency scanner for MCP servers and agent tool manifests; flags tool-description poisoning, data exfiltration, invisible Unicode, hardcoded secrets, unpinned packages, shell-exec, non-TLS transport and tool name collisions. CLI + CI + pre-commit; exits non-zero on HIGH+.
 
 ## Articles and Blog Posts - 
 
