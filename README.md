@@ -48,6 +48,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [MCP-Shield](https://github.com/riseandignite/mcp-shield) - Scans your installed MCP servers and detects vulnerabilities like tool poisoning attacks, exfiltration channels and cross-origin escalations.
 - [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments/tree/main) - MCP Tool Poisoning Experiments
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity.
+- [mcp-gatehouse](https://github.com/nickgeorgeseo/mcp-gatehouse) - Python library that adds permission tiers (READ/WRITE/DESTRUCTIVE), human approval gates and a secret-redacting JSONL audit log to MCP servers, enforced inside the server on the official SDK.
 
 ## Articles and Blog Posts - 
 
