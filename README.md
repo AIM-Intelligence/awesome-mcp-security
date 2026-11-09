@@ -48,8 +48,8 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [MCP-Shield](https://github.com/riseandignite/mcp-shield) - Scans your installed MCP servers and detects vulnerabilities like tool poisoning attacks, exfiltration channels and cross-origin escalations.
 - [mcp-injection-experiments](https://github.com/invariantlabs-ai/mcp-injection-experiments/tree/main) - MCP Tool Poisoning Experiments
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manages your LLM assistant's access to MCP servers, handing you realtime control of your LLM's activity.
-- [AgentShield](https://github.com/nitikasec/agentshield) - Static scanner that checks MCP configs **and server source code** (most scanners only cover installed servers); flags secret exposure, excessive agency, insecure transport, tool-poisoning indicators and supply-chain risk, with a risk score, HTML report, and confirmed-vs-indicator confidence labeling. Fully offline, zero dependencies.
-- [Agent Heist](https://github.com/nitikasec/agent-heist) - Hands-on lab to **attack and defend** AI agents / MCP servers; each level pairs a real attack class (indirect prompt injection, broken authz, exfiltration) with a tested, hardened fix, mapped to the OWASP LLM Top 10.
+- [AgentShield](https://github.com/nitikasec/agentshield) - Static scanner that checks MCP configs and server source code (most scanners only cover installed servers); flags secret exposure, excessive agency, insecure transport, tool-poisoning indicators and supply-chain risk, with a risk score, HTML report, and confirmed-vs-indicator confidence labeling. Fully offline, zero dependencies.
+- [Agent Heist](https://github.com/nitikasec/agent-heist) - Hands-on lab to attack and defend AI agents / MCP servers; each level pairs a real attack class (indirect prompt injection, broken authz, exfiltration) with a tested, hardened fix, mapped to the OWASP LLM Top 10.
 
 ## Articles and Blog Posts - 
 
