@@ -40,6 +40,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ## Tools
 
+- [CTXFW (Context Firewall)](https://github.com/heuristicolab/ctxfw) - Local, zero-egress Layer-0 MCP `stdio` gatekeeper combining deterministic indirect prompt-injection & BiDi Trojan-Source filtering (0.33 ms P50, OWASP DevSecOps 2-2-5) with Tree-sitter AST pruning and a 30s CI/CD diff gate.
 - [MCP Specification](https://spec.modelcontextprotocol.io/specification/2025-03-26/) - Official MCP specification with security recommendations
 - [Glama.ai MCP Server Directory](https://block.github.io/goose/blog/2025/03/26/mcp-security/) - Security-aware directory of MCP servers with security scoring
 - [Damn Vulnerable MCP Server](https://github.com/harishsg993010/damn-vulnerable-MCP-server) - A server intentionally designed with flaws for security testing and training.
